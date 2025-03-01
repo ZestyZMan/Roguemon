@@ -49,6 +49,7 @@
 | Base stats and ability upon evolving are carried over to the new pokemon, with the additional base stats randomly going on top. |
 | In FRLG Natdex, all pokemon with a BST less than or equal to 450 that normally would not evolve are given a new evolution, in order to ensure that you can end up with something reasonably strong. This evolution will occur at the level of the BST of the evolution divided by 10. |
 > Example: If Wobbuffet (405 BST) were to evolve into Delphox (534 BST), this evolution would occur at level 53.
+| Evolutions cannot be canceled.  You may choose to not use a Rogue/Moon Stone if you want.  You also may choose to hold an everstone if you won an everstone via prizes to not evolve. |
 
 ---
 
